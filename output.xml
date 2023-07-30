@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1 (Python 3.11.1 on win32)" generated="20230725 00:11:05.017" rpa="false" schemaversion="4">
+<suite id="s1" name="Framework2" source="C:\Users\GMG\PycharmProjects\pythonProject3\Testcases\framework2.robot">
+<errors>
+<msg timestamp="20230725 00:11:07.313" level="ERROR">Execution stopped by user.</msg>
+</errors>
+</robot>
