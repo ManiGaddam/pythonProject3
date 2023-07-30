@@ -17,9 +17,10 @@ driver.find_element(By.XPATH, "//h3[text()='Wipro – Transform Digitally with O
 driver.find_element(By.XPATH, "//button[@title='Accept']").send_keys("\n")
 WiproTitle = driver.title
 Expected_title = "Wipro – Transform Digitally with Our Technology and IT Consulting Services"
-if WiproTitle == Expected_title: 
+if WiproTitle == Expected_title:
     print("Page is Up")
 else:
     print("Page is down")
 
 time.sleep(5)
+print("Good night")
